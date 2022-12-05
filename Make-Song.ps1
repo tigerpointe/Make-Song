@@ -166,12 +166,12 @@ Start-Sleep -Milliseconds 1750;
 # ---------------------------
 Play-Note -octave 4 -note "D"  -hold "Q" -lyric "O";
 
-Play-Note -octave 4 -note "G"  -hold "E" -lyric "Chist-";
+Play-Note -octave 4 -note "G"  -hold "E" -lyric "Christ-";
 Play-Note -octave 4 -note "G"  -hold "E" -lyric "mas";
 Play-Note -octave 4 -note "G"  -hold "Q" -lyric "tree";
 Play-Note -octave 4 -note "A"  -hold "Q" -lyric "O";
 
-Play-Note -octave 4 -note "B"  -hold "E" -lyric "Chist-";
+Play-Note -octave 4 -note "B"  -hold "E" -lyric "Christ-";
 Play-Note -octave 4 -note "B"  -hold "E" -lyric "mas";
 Play-Note -octave 4 -note "B"  -hold "Q" -lyric "tree";
 Play-Note -octave 4 -note "B"  -hold "Q" -lyric "How";
@@ -186,12 +186,12 @@ Play-Note -octave 4 -note "G"  -hold "Q" -lyric "es!";
 Play-Note -octave 4 -note "D"  -hold "Q" -lyric "O";
 
 # ---------------------------
-Play-Note -octave 4 -note "G"  -hold "E" -lyric "Chist-";
+Play-Note -octave 4 -note "G"  -hold "E" -lyric "Christ-";
 Play-Note -octave 4 -note "G"  -hold "E" -lyric "mas";
 Play-Note -octave 4 -note "G"  -hold "Q" -lyric "tree";
 Play-Note -octave 4 -note "A"  -hold "Q" -lyric "O";
 
-Play-Note -octave 4 -note "B"  -hold "E" -lyric "Chist-";
+Play-Note -octave 4 -note "B"  -hold "E" -lyric "Christ-";
 Play-Note -octave 4 -note "B"  -hold "E" -lyric "mas";
 Play-Note -octave 4 -note "B"  -hold "Q" -lyric "tree";
 Play-Note -octave 4 -note "B"  -hold "Q" -lyric "How";
@@ -227,12 +227,12 @@ Play-Note -octave 4 -note "B"  -hold "Q" -lyric "time.";
 Play-Note -octave 4 -note "D"  -hold "Q" -lyric "O";
 
 # ---------------------------
-Play-Note -octave 4 -note "G"  -hold "E" -lyric "Chist-";
+Play-Note -octave 4 -note "G"  -hold "E" -lyric "Christ-";
 Play-Note -octave 4 -note "G"  -hold "E" -lyric "mas";
 Play-Note -octave 4 -note "G"  -hold "Q" -lyric "tree";
 Play-Note -octave 4 -note "A"  -hold "Q" -lyric "O";
 
-Play-Note -octave 4 -note "B"  -hold "E" -lyric "Chist-";
+Play-Note -octave 4 -note "B"  -hold "E" -lyric "Christ-";
 Play-Note -octave 4 -note "B"  -hold "E" -lyric "mas";
 Play-Note -octave 4 -note "B"  -hold "Q" -lyric "tree";
 Play-Note -octave 4 -note "B"  -hold "Q" -lyric "How";
